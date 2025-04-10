@@ -55,9 +55,3 @@ Each model was evaluated using:
 
 ---
 
-## 📌 How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/heart-disease-prediction.git
-   cd heart-disease-prediction
